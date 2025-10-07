@@ -1,6 +1,6 @@
-# 🧠 AI Sentiment-Aware Text Generator  
+# AI Sentiment Aware Text Generator  
 
-### Developed by: D. Sajan (Senior ML Developer, XYZ Company)  
+### Developed by: D. Sajan
 *An intelligent system that generates essays or paragraphs aligned with the sentiment of user input — positive, negative, or neutral.*
 
 ---
@@ -47,6 +47,7 @@ A Streamlit interface where users can input text, view detected sentiment, overr
 Includes scripts for improving the generator and sentiment classifier using custom datasets for better domain alignment.  
 
 ---
+
 
 
 
