@@ -48,7 +48,8 @@ Includes scripts for improving the generator and sentiment classifier using cust
 
 ---
 
-## Application Avaliablw on https://internshipai.streamlit.app
+## Application Avaliable on https://internshipai.streamlit.app
+
 
 
 
